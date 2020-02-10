@@ -1,0 +1,68 @@
+body {
+    font-family: "Avenir Next";
+  background-color: greenyellow;
+  box-sizing: border-box;
+  }
+  
+ .header-list li {
+    list-style: none;
+    float: left;
+    padding: 10px 10px;
+  }
+  .logo {
+   font-size: 36px;
+    float: left;
+    padding: 20px 40px;
+    
+  }
+  header { background-color: green;
+    color: #fff;
+    height: 70px;}
+   .header-list li a {
+        display: block;
+            font-size: 30px;
+            padding: 10px;
+            color: white;
+             text-decoration: none;}
+        li a:hover {background-color: lightgreen;}
+        .a {font-size: 40;
+        text-align: center;}
+       .a h1 {border: 2px solid darkblue;}
+       .lessons {float: left;}
+       .second-list li a {text-align: center;
+               font-size: 25px;
+               font-size: bold;
+               list-style: none;
+               line-height: 40px;
+               text-decoration: none;
+}
+
+.second-list li:hover {
+    font-size: 27px ;
+}
+.footer-logo {float: left;
+    font-size: 32px;
+  margin: 30px;
+}
+ .footer-list {
+   float: right;
+ }
+ .footer-list li {list-style: none;
+font-size: 20px;
+font-weight: bold;
+padding: 0px 20px;
+}
+footer {background-color: darkgreen;
+height: 90px;
+margin-top: 185px;}
+.image img {height: 120px;
+               width: 120px;
+            border: 3px solid black;
+        border-radius: 50%;
+    }
+.image {float: right;
+padding-right: 30px;
+}
+
+.second-list {float: left;
+padding-left: 60px;}
